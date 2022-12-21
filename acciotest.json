@@ -1,0 +1,5 @@
+{
+    "testRepo": "job-app-form-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+
+}
